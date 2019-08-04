@@ -1,5 +1,0 @@
-dbe3eeb3721c7c142f5c0594a76e0c62c100ae1f 151620828 Designing Interactions.pdf
-94aba6fcff7b3266995b2ce8c20f3c97084f0804 131293629 Handbook Of Human Computer Interaction.pdf
-73881d769caf37ada0d42083237a860e74e246a6 124952737 Handbook Of Human Computer Interaction.zip
-c0e1234a2fbd540679003e3bc630e8d7bfb2b5c5 88961705 Head First HTML5 Programming.pdf
-655ab05318b01f9cfe2d23a07c677e9d8170c086 88501335 Universal Principles of Design.pdf
