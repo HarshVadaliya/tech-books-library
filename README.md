@@ -149,7 +149,6 @@ Any PR and suggestions are welcomed.
  - Data Mining Methods for Recommender Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Mining%20Methods%20for%20Recommender%20Systems.pdf)
  - Data Mining and Statistics for Decision Making [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Mining%20and%20Statistics%20for%20Decision%20Making.pdf)
  - Data Science Book [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20Book.pdf)
- - Data Science from Scratch - First Principles with Python [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20from%20Scratch%20-%20First%20Principles%20with%20Python.epub)
  - Data Science from Scratch [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20from%20Scratch.pdf) | [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20from%20Scratch.epub)
  - Data Science on the Google Cloud Platform [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20on%20the%20Google%20Cloud%20Platform.epub)
  - Data Science with Python and Dask Manning Publications (2019) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20with%20Python%20and%20Dask%20Manning%20Publications%20(2019).epub)
@@ -172,8 +171,7 @@ Any PR and suggestions are welcomed.
  - New Trends in Computational Collective Intelligence [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/New%20Trends%20in%20Computational%20Collective%20Intelligence.pdf)
  - Principles of Data Quality [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Principles%20of%20Data%20Quality.pdf)
  - Python Data Science Essentials [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Python%20Data%20Science%20Essentials.pdf)
- - Python for Data Analysis [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Python%20for%20Data%20Analysis.epub)
- - Python for Data Analysis [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Python%20for%20Data%20Analysis.pdf)
+ - Python for Data Analysis [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Python%20for%20Data%20Analysis.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Python%20for%20Data%20Analysis.epub)
  - Social Data Mining [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Social%20Data%20Mining.pdf)
  - Text Mining Classification, Clustering, and Applications [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Text%20Mining%20Classification,%20Clustering,%20and%20Applications.pdf)
  - The Data Analytics Handbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/The%20Data%20Analytics%20Handbook.pdf)
@@ -193,19 +191,19 @@ Any PR and suggestions are welcomed.
  - Interactive Data Visualization for the Web [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Visualization/Interactive%20Data%20Visualization%20for%20the%20Web.pdf)
  - Visualizing Data [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Visualization/Visualizing%20Data.pdf)
 
-### Databases
- - Graph Databases [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Databases/Graph%20Databases.epub)
- - Graph Databases [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Databases/Graph%20Databases.pdf)
+## Databases
+ - Graph Databases [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Databases/Graph%20Databases.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Databases/Graph%20Databases.epub)
  - Graphics of Large Datasets [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Databases/Graphics%20of%20Large%20Datasets.pdf)
  - Learning SPARQL [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Databases/Learning%20SPARQL.epub)
-### Databases/MongoDB
+
+### MongoDB
  - MongoDB - Applied Design Patterns, Practical Use Cases with the Leading NoSQL Database [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Databases/MongoDB/MongoDB%20-%20Applied%20Design%20Patterns,%20Practical%20Use%20Cases%20with%20the%20Leading%20NoSQL%20Database.pdf)
- - MongoDB - The Definitive Guide [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Databases/MongoDB/MongoDB%20-%20The%20Definitive%20Guide.epub)
- - MongoDB - The Definitive Guide [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Databases/MongoDB/MongoDB%20-%20The%20Definitive%20Guide.pdf)
+ - MongoDB - The Definitive Guide [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Databases/MongoDB/MongoDB%20-%20The%20Definitive%20Guide.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Databases/MongoDB/MongoDB%20-%20The%20Definitive%20Guide.epub)
  - MongoDB Applied Design Patterns - Practical Use Cases with the Leading NoSQL Database [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Databases/MongoDB/MongoDB%20Applied%20Design%20Patterns%20-%20Practical%20Use%20Cases%20with%20the%20Leading%20NoSQL%20Database.epub)
  - MongoDB Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Databases/MongoDB/MongoDB%20Cookbook.pdf)
  - NoSQL Database Technology - A Survey and Comparison of Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Databases/NoSQL%20Database%20Technology%20-%20A%20Survey%20and%20Comparison%20of%20Systems.pdf)
-### Design
+
+## Design
  - Design for How People Think - Using Brain Science to Build Better Products [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Design/Design%20for%20How%20People%20Think%20-%20Using%20Brain%20Science%20to%20Build%20Better%20Products.pdf)
  - Designing Interfaces - Patterns for Effective Interaction Design [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Design/Designing%20Interfaces%20-%20Patterns%20for%20Effective%20Interaction%20Design.pdf)
  - Designing with the Mind in Mind Simple Guide to Understanding User Interface Design Rules [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Design/Designing%20with%20the%20Mind%20in%20Mind%20Simple%20Guide%20to%20Understanding%20User%20Interface%20Design%20Rules.pdf)
@@ -217,24 +215,25 @@ Any PR and suggestions are welcomed.
  - The Principles of Beautiful Web Design [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Design/The%20Principles%20of%20Beautiful%20Web%20Design.pdf)
  - User Interface Design for Programmers [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Design/User%20Interface%20Design%20for%20Programmers.pdf)
  - User Story Mapping - Discover the Whole Story, Build the Right Product [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Design/User%20Story%20Mapping%20-%20Discover%20the%20Whole%20Story,%20Build%20the%20Right%20Product.pdf)
-### DevOps (Docker, Kubernetes, etc.)
+
+## DevOps (Docker, Kubernetes, etc.)
  - Amazon Web Services in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Amazon%20Web%20Services%20in%20Action.pdf)
  - Cloud Native Patterns - Designing change tolerant software [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Cloud%20Native%20Patterns%20-%20Designing%20change%20tolerant%20software.pdf)
  - DevOps Automation Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/DevOps%20Automation%20Cookbook.pdf)
-### DevOps (Docker, Kubernetes, etc.)/Docker
- - Docker Up and Running [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Docker/Docker%20Up%20and%20Running.epub)
- - Docker Up and Running [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Docker/Docker%20Up%20and%20Running.pdf)
+
+### Docker
+ - Docker Up and Running [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Docker/Docker%20Up%20and%20Running.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Docker/Docker%20Up%20and%20Running.epub)
  - Docker in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Docker/Docker%20in%20Action.pdf)
  - Docker in Practice [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Docker/Docker%20in%20Practice.pdf)
  - Introduction to Docker [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Docker/Introduction%20to%20Docker.pdf)
  - Learning Docker [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Docker/Learning%20Docker.pdf)
  - Effective DevOps - Building a Culture of Collaboration, Affinity, and Tooling at Scale [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Effective%20DevOps%20-%20Building%20a%20Culture%20of%20Collaboration,%20Affinity,%20and%20Tooling%20at%20Scale.epub)
  - Infrastructure as Code - Managing Servers in the Cloud [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Infrastructure%20as%20Code%20-%20Managing%20Servers%20in%20the%20Cloud.epub)
- - Jenkins 2 - Up and Running - Evolve Your Deployment Pipeline for Next Generation Automation [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Jenkins%202%20-%20Up%20and%20Running%20-%20Evolve%20Your%20Deployment%20Pipeline%20for%20Next%20Generation%20Automation.pdf)
-### DevOps (Docker, Kubernetes, etc.)/Kubernetes
+ - Jenkins 2 Up and Running - Evolve Your Deployment Pipeline for Next Generation Automation [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Jenkins%202%20-%20Up%20and%20Running%20-%20Evolve%20Your%20Deployment%20Pipeline%20for%20Next%20Generation%20Automation.pdf)
+
+### Kubernetes
  - Cloud Native DevOps with Kubernetes [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Cloud%20Native%20DevOps%20with%20Kubernetes.pdf)
- - Getting Started with Kubernetes [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Getting%20Started%20with%20Kubernetes.epub)
- - Getting Started with Kubernetes [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Getting%20Started%20with%20Kubernetes.pdf)
+ - Getting Started with Kubernetes [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Getting%20Started%20with%20Kubernetes.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Getting%20Started%20with%20Kubernetes.epub)
  - Kubernetes Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Kubernetes%20Cookbook.pdf)
  - Kubernetes Management Design Patterns With Docker, CoreOS Linux, and Other Platforms [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Kubernetes%20Management%20Design%20Patterns%20With%20Docker,%20CoreOS%20Linux,%20and%20Other%20Platforms.pdf)
  - Kubernetes Microservices with Docker [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Kubernetes/Kubernetes%20Microservices%20with%20Docker.pdf)
@@ -244,13 +243,13 @@ Any PR and suggestions are welcomed.
  - Practical Cloud Security - A Guide for Secure Design and Deployment [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Practical%20Cloud%20Security%20-%20A%20Guide%20for%20Secure%20Design%20and%20Deployment.pdf)
  - Prometheus - Up & Running - Infrastructure and Application Performance Monitoring [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Prometheus%20-%20Up%20&%20Running%20-%20Infrastructure%20and%20Application%20Performance%20Monitoring.pdf)
  - Securing Devops - Safe Services in the Cloud [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Securing%20Devops%20-%20Safe%20Services%20in%20the%20Cloud.pdf)
- - Site Reliability Engineering - How Google Runs Production Systems [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems.epub)
- - Site Reliability Engineering - How Google Runs Production Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems.pdf)
+ - Site Reliability Engineering - How Google Runs Production Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems.epub)
  - The DevOps 2.0 Toolkit - Automating the Continuous Deployment Pipeline with Containerized Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20DevOps%202.0%20Toolkit%20-%20Automating%20the%20Continuous%20Deployment%20Pipeline%20with%20Containerized%20Microservices.pdf)
  - The DevOps Adoption Playbook - A Guide to Adopting DevOps in a Multi-Speed IT Enterprise [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20DevOps%20Adoption%20Playbook%20-%20A%20Guide%20to%20Adopting%20DevOps%20in%20a%20Multi-Speed%20IT%20Enterprise.pdf)
  - The Site Reliability Workbook - Practical Ways to Implement SRE [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/The%20Site%20Reliability%20Workbook%20-%20Practical%20Ways%20to%20Implement%20SRE.pdf)
  - Using AWS Lambda and Claudia.js [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/DevOps%20(Docker,%20Kubernetes,%20etc.)/Using%20AWS%20Lambda%20and%20Claudia.js.pdf)
-### Elasticsearch
+
+## Elasticsearch
  - Elasticsearch - The Definitive Guide [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Elasticsearch/Elasticsearch%20-%20The%20Definitive%20Guide.pdf)
  - Elasticsearch Blueprints - A practical project-based guide to generating compelling search solutions using the dynamic and powerful features of Elasticsearch [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Elasticsearch/Elasticsearch%20Blueprints%20-%20A%20practical%20project-based%20guide%20to%20generating%20compelling%20search%20solutions%20using%20the%20dynamic%20and%20powerful%20features%20of%20Elasticsearch.pdf)
  - Elasticsearch Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Elasticsearch/Elasticsearch%20Cookbook.pdf)
@@ -260,40 +259,39 @@ Any PR and suggestions are welcomed.
  - Learning ELK Stack - Build mesmerizing visualizations, analytics, and logs from your data using Elasticsearch, Logstash, and Kibana [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Elasticsearch/Learning%20ELK%20Stack%20-%20Build%20mesmerizing%20visualizations,%20analytics,%20and%20logs%20from%20your%20data%20using%20Elasticsearch,%20Logstash,%20and%20Kibana.pdf)
  - Mastering ElasticSearch - Extend your knowledge on ElasticSearch, and querying and data handling, along with its internal workings [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Elasticsearch/Mastering%20ElasticSearch%20-%20Extend%20your%20knowledge%20on%20ElasticSearch,%20and%20querying%20and%20data%20handling,%20along%20with%20its%20internal%20workings.pdf)
  - Relevant Search - With applications for Solr and Elasticsearch [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Elasticsearch/Relevant%20Search%20-%20With%20applications%20for%20Solr%20and%20Elasticsearch.pdf)
-### Git (Virsion Control)
+
+## Git (Version Control)
  - Git - Giant Undo Button [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Git%20(Virsion%20Control)/Git%20-%20Giant%20Undo%20Button.pdf)
  - Git Internals [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Git%20(Virsion%20Control)/Git%20Internals.pdf)
  - Pro GIT [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Git%20(Virsion%20Control)/Pro%20GIT.pdf)
  - Version Control by Example [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Git%20(Virsion%20Control)/Version%20Control%20by%20Example.pdf)
-### Go
+
+## Go
  - Concurrency in Go - Tools and Techniques for Developers [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Go/Concurrency%20in%20Go%20-%20Tools%20and%20Techniques%20for%20Developers.pdf)
-### Java
+
+## Java
  - Enterprise Java Microservices [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Java/Enterprise%20Java%20Microservices.epub)
- - Learning Java [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Java/Learning%20Java.epub)
- - Learning Java [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Java/Learning%20Java.pdf)
+ - Learning Java [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Java/Learning%20Java.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Java/Learning%20Java.epub)
  - Microservices Patterns - With examples in Java [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Java/Microservices%20Patterns%20-%20With%20examples%20in%20Java.pdf)
  - Modern Java in Action - Lambda, streams, functional and reactive programming [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Java/Modern%20Java%20in%20Action%20-%20Lambda,%20streams,%20functional%20and%20reactive%20programming.pdf)
-### JavaScript
- - Data Structures and Algorithms with JavaScript [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Data%20Structures%20and%20Algorithms%20with%20JavaScript.epub)
- - Data Structures and Algorithms with JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Data%20Structures%20and%20Algorithms%20with%20JavaScript.pdf)
+
+## JavaScript
+ - Data Structures and Algorithms with JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Data%20Structures%20and%20Algorithms%20with%20JavaScript.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Data%20Structures%20and%20Algorithms%20with%20JavaScript.epub)
  - Data Wrangling with JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Data%20Wrangling%20with%20JavaScript.pdf)
  - Electron in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Electron%20in%20Action.pdf)
  - Essential JavaScript Design Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Essential%20JavaScript%20Design%20Patterns.pdf)
  - HTML5 and JavaScript Web Apps [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/HTML5%20and%20JavaScript%20Web%20Apps.pdf)
  - High Performance JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/High%20Performance%20JavaScript.pdf)
- - Human JavaScript [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Human%20JavaScript.epub)
- - Human JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Human%20JavaScript.pdf)
+ - Human JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Human%20JavaScript.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Human%20JavaScript.epub)
  - JavaScript - The Definitive Guide [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20-%20The%20Definitive%20Guide.epub)
  - JavaScript A Beginners Guide  [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20A%20Beginners%20Guide%20.pdf)
  - JavaScript Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20Cookbook.pdf)
  - JavaScript Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20Patterns.pdf)
  - JavaScript The Definitive Guide [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20The%20Definitive%20Guide.pdf)
- - JavaScript The Good Parts [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20The%20Good%20Parts.epub)
- - JavaScript The Good Parts [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20The%20Good%20Parts.pdf)
+ - JavaScript The Good Parts [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20The%20Good%20Parts.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20The%20Good%20Parts.epub)
  - JavaScript Web Applications [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/JavaScript%20Web%20Applications.pdf)
  - Learn Functional Programming by Implementing SQL with Underscore.js Presentation [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Learn%20Functional%20Programming%20by%20Implementing%20SQL%20with%20Underscore.js%20Presentation.pdf)
- - Learning JavaScript Design Patterns [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Learning%20JavaScript%20Design%20Patterns.epub)
- - Learning JavaScript Design Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Learning%20JavaScript%20Design%20Patterns.pdf)
+ - Learning JavaScript Design Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Learning%20JavaScript%20Design%20Patterns.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Learning%20JavaScript%20Design%20Patterns.epub)
  - Maintainable JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Maintainable%20JavaScript.pdf)
  - Mastering Modular JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Mastering%20Modular%20JavaScript.pdf)
  - Pro JavaScript Design Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Pro%20JavaScript%20Design%20Patterns.pdf)
@@ -302,40 +300,42 @@ Any PR and suggestions are welcomed.
  - Rxjs in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Rxjs%20in%20Action.pdf)
  - Secrets of the JavaScript Ninja [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Secrets%20of%20the%20JavaScript%20Ninja.pdf)
  - Security for Web Developers Using JavaScript, HTML, and CSS [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Security%20for%20Web%20Developers%20Using%20JavaScript,%20HTML,%20and%20CSS.epub)
- - Testable JavaScript [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Testable%20JavaScript.epub)
- - Testable JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Testable%20JavaScript.pdf)
+ - Testable JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Testable%20JavaScript.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Testable%20JavaScript.epub)
  - TypeScript Accelerated [[epub]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/TypeScript%20Accelerated.epub)
  - TypeScript Design Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/TypeScript%20Design%20Patterns.pdf)
-### Management
+
+## Management
  - Management 3.0 - Leading Agile Developers, Developing Agile Leaders [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Management/Management%203.0%20-%20Leading%20Agile%20Developers,%20Developing%20Agile%20Leaders.epub)
  - The Bastard Operator From Hell [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Management/The%20Bastard%20Operator%20From%20Hell.pdf)
  - The Lean Startup - How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Management/The%20Lean%20Startup%20-%20How%20Today's%20Entrepreneurs%20Use%20Continuous%20Innovation%20to%20Create%20Radically%20Successful%20Businesses.pdf)
  - The Minto Pyramid Principle - Logic in Writing, Thinking, & Problem Solving [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Management/The%20Minto%20Pyramid%20Principle%20-%20Logic%20in%20Writing,%20Thinking,%20&%20Problem%20Solving.pdf)
-### Math (Statistics, Linear Algebra, etc.)
+
+## Math (Statistics, Linear Algebra, etc.)
  - Linear Algebra Explained In Four Pages [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Linear%20Algebra%20Explained%20In%20Four%20Pages.pdf)
  - Linear Algebra [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Linear%20Algebra.pdf)
  - Think Bayes - Bayesian Statistics Made Simple [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Bayes%20-%20Bayesian%20Statistics%20Made%20Simple.pdf)
  - Think Stats - Exploratory Data Analysis in Python [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats%20-%20Exploratory%20Data%20Analysis%20in%20Python.pdf)
- - Think Stats [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats.epub)
- - Think Stats [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats.pdf)
-### Misc.
+ - Think Stats [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats.epub)
+
+## Misc.
  - Elixir in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Misc./Elixir%20in%20Action.pdf)
  - Elm Accelerated [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Misc./Elm%20Accelerated.epub)
  - Help Any Team Build a Better Experience [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Misc./Help%20Any%20Team%20Build%20a%20Better%20Experience.epub)
  - Reactive Applications with Akka.Net [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Misc./Reactive%20Applications%20with%20Akka.Net.pdf)
  - The Growth Handbook by Intercom [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Misc./The%20Growth%20Handbook%20by%20Intercom.epub)
  - The Laws of Simplicity [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Misc./The%20Laws%20of%20Simplicity.pdf)
-### Node.js
+
+## Node.js
  - Building Hypermedia APIs with HTML5 and Node [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Node.js/Building%20Hypermedia%20APIs%20with%20HTML5%20and%20Node.pdf)
  - Developing Microservices with Node.js [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Node.js/Developing%20Microservices%20with%20Node.js.pdf)
  - Node Up and Running [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Node.js/Node%20Up%20and%20Running.pdf)
  - Node for Front-End Developers [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Node.js/Node%20for%20Front-End%20Developers.pdf)
  - Node.js in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Node.js/Node.js%20in%20Action.pdf)
-### Python
+
+## Python
  - Classic Computer Science Problems in Python [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Classic%20Computer%20Science%20Problems%20in%20Python.pdf)
  - Hands-On Machine Learning with Scikit-Learn and TensorFlow - Concepts, Tools, and Techniques to Build Intelligent Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow%20-%20Concepts,%20Tools,%20and%20Techniques%20to%20Build%20Intelligent%20Systems.pdf)
- - Learning Python - Powerful Object-Oriented Programming [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Python/Learning%20Python%20-%20Powerful%20Object-Oriented%20Programming.epub)
- - Learning Python - Powerful Object-Oriented Programming [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Learning%20Python%20-%20Powerful%20Object-Oriented%20Programming.pdf)
+ - Learning Python - Powerful Object-Oriented Programming [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Learning%20Python%20-%20Powerful%20Object-Oriented%20Programming.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Python/Learning%20Python%20-%20Powerful%20Object-Oriented%20Programming.epub)
  - Learning Website Development with Django [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Learning%20Website%20Development%20with%20Django.pdf)
  - Python Essential Reference [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Python%20Essential%20Reference.pdf)
  - Python for Finance - Mastering Data Driven Finance [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Python/Python%20for%20Finance%20-%20Mastering%20Data%20Driven%20Finance.epub)
@@ -345,18 +345,22 @@ Any PR and suggestions are welcomed.
  - R Cookbook - Proven Recipes for Data Analysis, Statistics, and Graphics [[epub]](https://github.com/ahmadassaf/books-library/blob/master/R/R%20Cookbook%20-%20Proven%20Recipes%20for%20Data%20Analysis,%20Statistics,%20and%20Graphics.epub)
  - R Data Structures and Algorithms [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/R/R%20Data%20Structures%20and%20Algorithms.pdf)
  - R Deep Learning Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/R/R%20Deep%20Learning%20Cookbook.pdf)
-### React
+
+## React
  - Hands On Design Patterns with React Native [[epub]](https://github.com/ahmadassaf/books-library/blob/master/React/Hands%20On%20Design%20Patterns%20with%20React%20Native.epub)
  - Isomorphic Web Applications - Universal Development with React [[epub]](https://github.com/ahmadassaf/books-library/blob/master/React/Isomorphic%20Web%20Applications%20-%20Universal%20Development%20with%20React.epub)
  - React Native in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/React/React%20Native%20in%20Action.pdf)
-### Redis
+
+## Redis
  - Redis Essentials [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Redis/Redis%20Essentials.pdf)
  - Redis in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Redis/Redis%20in%20Action.pdf)
-### Reular Expressions
+
+## Regular Expressions
  - Mastering Regular Expressions [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Reular%20Expressions/Mastering%20Regular%20Expressions.pdf)
  - Regular Expression Pocket Reference [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Reular%20Expressions/Regular%20Expression%20Pocket%20Reference.pdf)
  - Regular Expressions Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Reular%20Expressions/Regular%20Expressions%20Cookbook.pdf)
-### Semantic Web
+
+## Semantic Web
  - A Developer’s Guide to the Semantic Web [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Semantic%20Web/A%20Developer’s%20Guide%20to%20the%20Semantic%20Web.pdf)
  - Emergent Web Intelligence Advanced Semantic Technologies [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Semantic%20Web/Emergent%20Web%20Intelligence%20Advanced%20Semantic%20Technologies.pdf)
  - Linked Data - Evolving The Web Into A Global Data Space [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Semantic%20Web/Linked%20Data%20-%20Evolving%20The%20Web%20Into%20A%20Global%20Data%20Space.pdf)
@@ -367,16 +371,15 @@ Any PR and suggestions are welcomed.
  - Semantic Web Services For Web Databases [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Semantic%20Web/Semantic%20Web%20Services%20For%20Web%20Databases.pdf)
  - Semantic Web Services [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Semantic%20Web/Semantic%20Web%20Services.pdf)
  - Semantic Web Technologies for Business Intelligence [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Semantic%20Web/Semantic%20Web%20Technologies%20for%20Business%20Intelligence.pdf)
- - Semantic Web for the Working Ontologist Effective Modeling in RDFS and OWL [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Semantic%20Web/Semantic%20Web%20for%20the%20Working%20Ontologist%20Effective%20Modeling%20in%20RDFS%20and%20OWL.pdf)
  - Semantic Web for the Working Ontologist [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Semantic%20Web/Semantic%20Web%20for%20the%20Working%20Ontologist.pdf)
-### Software Engineering and Architecture
+
+## Software Engineering and Architecture
  - AI for People and Business - A Framework for Better Human Experiences and Business Success [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/AI%20for%20People%20and%20Business%20-%20A%20Framework%20for%20Better%20Human%20Experiences%20and%20Business%20Success.epub)
  - API Design Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/API%20Design%20Cookbook.pdf)
  - APIs A Strategy Guide [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/APIs%20A%20Strategy%20Guide.pdf)
  - Architecting for Scale [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Architecting%20for%20Scale.epub)
  - Building Adaptable Software with Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Adaptable%20Software%20with%20Microservices.pdf)
- - Building Microservices [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Microservices.epub)
- - Building Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Microservices.pdf)
+ - Building Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Microservices.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Microservices.epub)
  - Clean Code Collection [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Clean%20Code%20Collection.epub)
  - Clean code - A handbook of agile software craftsmanship [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Clean%20code%20-%20A%20handbook%20of%20agile%20software%20craftsmanship.epub)
  - Dependency Injection Principles, Practices, and Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Dependency%20Injection%20Principles,%20Practices,%20and%20Patterns.pdf)
@@ -384,17 +387,16 @@ Any PR and suggestions are welcomed.
  - Facebook - A Focus on Efficieny [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Facebook%20-%20A%20Focus%20on%20Efficieny.pdf)
  - HTTP - 2 in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/HTTP%20-%202%20in%20Action.pdf)
  - Hands-on Domain-driven Design by Example [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Hands-on%20Domain-driven%20Design%20by%20Example.epub)
- - Information Architecture For the Web and Beyond [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Information%20Architecture%20For%20the%20Web%20and%20Beyond.epub)
- - Information Architecture For the Web and Beyond [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Information%20Architecture%20For%20the%20Web%20and%20Beyond.pdf)
+ - Information Architecture For the Web and Beyond [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Information%20Architecture%20For%20the%20Web%20and%20Beyond.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Information%20Architecture%20For%20the%20Web%20and%20Beyond.epub)
  - Learning Chaos Engineering - Discovering and Overcoming System Weaknesses Through Experimentation [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Learning%20Chaos%20Engineering%20-%20Discovering%20and%20Overcoming%20System%20Weaknesses%20Through%20Experimentation.epub)
  - Microservices Designing Deploying [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Microservices%20Designing%20Deploying.pdf)
- - Production Ready Microservices [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Production%20Ready%20Microservices.epub)
- - Production Ready Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Production%20Ready%20Microservices.pdf)
+ - Production Ready Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Production%20Ready%20Microservices.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Production%20Ready%20Microservices.epub)
  - Reactive Design Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Reactive%20Design%20Patterns.pdf)
  - Scalable and Modular Architecture [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Scalable%20and%20Modular%20Architecture.epub)
  - Streaming Data - Understanding the Real Time Pipeline [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Streaming%20Data%20-%20Understanding%20the%20Real%20Time%20Pipeline.pdf)
  - Understanding Computation - From Simple Machines to Impossible Programs [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Understanding%20Computation%20-%20From%20Simple%20Machines%20to%20Impossible%20Programs.epub)
-### Web Development (HTML, CSS)
+
+## Web Development (HTML, CSS)
  - CSS FlexBox [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Web%20Development%20(HTML,%20CSS)/CSS%20FlexBox.pdf)
  - CSS in Depth [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Web%20Development%20(HTML,%20CSS)/CSS%20in%20Depth.pdf)
  - Developing Large Web Applications [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Web%20Development%20(HTML,%20CSS)/Developing%20Large%20Web%20Applications.pdf)
