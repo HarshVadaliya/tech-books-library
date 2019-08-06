@@ -148,7 +148,6 @@ Any PR and suggestions are welcomed.
  - [Data Mining, Science and Analysis/Data Mining For Business Intelligence](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/)
  - Data Mining Methods for Recommender Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Mining%20Methods%20for%20Recommender%20Systems.pdf)
  - Data Mining and Statistics for Decision Making [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Mining%20and%20Statistics%20for%20Decision%20Making.pdf)
- - Data Science Book [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20Book.pdf)
  - Data Science from Scratch [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20from%20Scratch.pdf) | [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20from%20Scratch.epub)
  - Data Science on the Google Cloud Platform [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20on%20the%20Google%20Cloud%20Platform.epub)
  - Data Science with Python and Dask Manning Publications (2019) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20with%20Python%20and%20Dask%20Manning%20Publications%20(2019).epub)
@@ -293,7 +292,6 @@ Any PR and suggestions are welcomed.
  - Maintainable JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Maintainable%20JavaScript.pdf)
  - Mastering Modular JavaScript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Mastering%20Modular%20JavaScript.pdf)
  - Pro JavaScript Design Patterns [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Pro%20JavaScript%20Design%20Patterns.pdf)
- - Programming HTML5 Applications - Building Powerful Cross Platform Environments in Javascript [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Programming%20HTML5%20Applications%20-%20Building%20Powerful%20Cross%20Platform%20Environments%20in%20Javascript.pdf)
  - Redux in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Redux%20in%20Action.pdf)
  - Rxjs in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Rxjs%20in%20Action.pdf)
  - Secrets of the JavaScript Ninja [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/JavaScript/Secrets%20of%20the%20JavaScript%20Ninja.pdf)
@@ -332,7 +330,6 @@ Any PR and suggestions are welcomed.
 
 ## Python
  - Classic Computer Science Problems in Python [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Classic%20Computer%20Science%20Problems%20in%20Python.pdf)
- - Hands-On Machine Learning with Scikit-Learn and TensorFlow - Concepts, Tools, and Techniques to Build Intelligent Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow%20-%20Concepts,%20Tools,%20and%20Techniques%20to%20Build%20Intelligent%20Systems.pdf)
  - Learning Python - Powerful Object-Oriented Programming [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Learning%20Python%20-%20Powerful%20Object-Oriented%20Programming.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Python/Learning%20Python%20-%20Powerful%20Object-Oriented%20Programming.epub)
  - Learning Website Development with Django [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Learning%20Website%20Development%20with%20Django.pdf)
  - Python Essential Reference [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Python/Python%20Essential%20Reference.pdf)
@@ -342,7 +339,6 @@ Any PR and suggestions are welcomed.
  - Getting Started with RStudio [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/R/Getting%20Started%20with%20RStudio.pdf)
  - R Cookbook - Proven Recipes for Data Analysis, Statistics, and Graphics [[epub]](https://github.com/ahmadassaf/books-library/blob/master/R/R%20Cookbook%20-%20Proven%20Recipes%20for%20Data%20Analysis,%20Statistics,%20and%20Graphics.epub)
  - R Data Structures and Algorithms [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/R/R%20Data%20Structures%20and%20Algorithms.pdf)
- - R Deep Learning Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/R/R%20Deep%20Learning%20Cookbook.pdf)
 
 ## React
  - Hands On Design Patterns with React Native [[epub]](https://github.com/ahmadassaf/books-library/blob/master/React/Hands%20On%20Design%20Patterns%20with%20React%20Native.epub)
