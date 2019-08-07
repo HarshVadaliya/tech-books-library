@@ -153,8 +153,8 @@ Any PR and suggestions are welcomed.
  - Data Science with Python and Dask Manning Publications (2019) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Science%20with%20Python%20and%20Dask%20Manning%20Publications%20(2019).epub)
  - Data Source Handbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Source%20Handbook.pdf)
  - Data Stream Mining - A Practical Approach [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Data%20Stream%20Mining%20-%20A%20Practical%20Approach.pdf)
-  - Decision Support Systems For Business Intelligence [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Decision%20Support%20Systems%20For%20Business%20Intelligence.pdf)
- - Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable and Maintainable Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Designing%20Data-Intensive%20Applications%20-%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable%20and%20Maintainable%20Systems.pdf)
+ - Decision Support Systems For Business Intelligence [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Decision%20Support%20Systems%20For%20Business%20Intelligence.pdf)
+ - Designing Data-Intensive Applications - The Big Ideas Behind Reliable, Scalable and Maintainable Systems [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Designing%20Data-Intensive%20Applications%20-%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable%20and%20Maintainable%20Systems.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Designing%20Data-Intensive%20Applications%20-%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems.epub)
  - Designing Data-Intensive Web Applications [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Designing%20Data-Intensive%20Web%20Applications.pdf)
  - Emergent Web Intelligence Advanced Information Retrieval [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Emergent%20Web%20Intelligence%20Advanced%20Information%20Retrieval.pdf)
  - Foundations for Architecting Data Solutions  - Managing Successful Data Projects [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Data%20Mining,%20Science%20and%20Analysis/Foundations%20for%20Architecting%20Data%20Solutions%20%20-%20Managing%20Successful%20Data%20Projects.pdf)
@@ -313,14 +313,29 @@ Any PR and suggestions are welcomed.
  - Think Stats - Exploratory Data Analysis in Python [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats%20-%20Exploratory%20Data%20Analysis%20in%20Python.pdf)
  - Think Stats [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats.epub)
 
-## Misc.
- - Elixir in Action [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Misc./Elixir%20in%20Action.pdf)
- - Elm Accelerated [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Misc./Elm%20Accelerated.epub)
- - Help Any Team Build a Better Experience [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Misc./Help%20Any%20Team%20Build%20a%20Better%20Experience.epub)
- - Reactive Applications with Akka.Net [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Misc./Reactive%20Applications%20with%20Akka.Net.pdf)
- - The Growth Handbook by Intercom [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Misc./The%20Growth%20Handbook%20by%20Intercom.epub)
- - The Laws of Simplicity [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Misc./The%20Laws%20of%20Simplicity.pdf)
+ [Misc.](https://github.com/ahmadassaf/research-library/blob/master/Misc.)
 
+ - Algorithms to Live By: The Computer Science of Human Decisions [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Algorithms%20to%20Live%20By:%20The%20Computer%20Science%20of%20Human%20Decisions.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Algorithms%20to%20Live%20By:%20The%20Computer%20Science%20of%20Human%20Decisions.epub)
+ - Anything You Want - 40 Lessons for a New Kind of Entrepreneur [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Anything%20You%20Want%20-%2040%20Lessons%20for%20a%20New%20Kind%20of%20Entrepreneur.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Anything%20You%20Want%20-%2040%20Lessons%20for%20a%20New%20Kind%20of%20Entrepreneur.epub)
+ - Atomic Habits - An Easy & Proven Way to Build Good Habits & Break Bad Ones [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Atomic%20Habits%20-%20An%20Easy%20&%20Proven%20Way%20to%20Build%20Good%20Habits%20&%20Break%20Bad%20Ones.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Atomic%20Habits%20-%20An%20Easy%20&%20Proven%20Way%20to%20Build%20Good%20Habits%20&%20Break%20Bad%20Ones.epub)
+ - Business Adventures - Twelve Classic Tales from the World of Wall Street [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Business%20Adventures%20-%20Twelve%20Classic%20Tales%20from%20the%20World%20of%20Wall%20Street.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Business%20Adventures%20-%20Twelve%20Classic%20Tales%20from%20the%20World%20of%20Wall%20Street.epub)
+ - Competing Against Luck - The Story of Innovation and Customer Choice [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Competing%20Against%20Luck%20-%20The%20Story%20of%20Innovation%20and%20Customer%20Choice.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Competing%20Against%20Luck%20-%20The%20Story%20of%20Innovation%20and%20Customer%20Choice.epub)
+ - Contagious - Why Things Catch On [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Contagious%20-%20Why%20Things%20Catch%20On.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Contagious%20-%20Why%20Things%20Catch%20On.epub)
+ - Crossing the Chasm - Marketing and Selling Disruptive Products to Mainstream Customers [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Crossing%20the%20Chasm%20-%20Marketing%20and%20Selling%20Disruptive%20Products%20to%20Mainstream%20Customers.pdf)
+ - Daily Rituals - How Great Minds Make Time, Find Inspiration, and Get to Work [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Daily%20Rituals%20-%20How%20Great%20Minds%20Make%20Time,%20Find%20Inspiration,%20and%20Get%20to%20Work.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Daily%20Rituals%20-%20How%20Great%20Minds%20Make%20Time,%20Find%20Inspiration,%20and%20Get%20to%20Work.epub)
+ - Dealing with China - An Insider Unmasks the New Economic Superpower [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Dealing%20with%20China%20-%20An%20Insider%20Unmasks%20the%20New%20Economic%20Superpower.pdf)
+ - Debugging Teams - Better Productivity through Collaboration [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Debugging%20Teams%20-%20Better%20Productivity%20through%20Collaboration.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Dealing%20with%20China%20-%20An%20Insider%20Unmasks%20the%20New%20Economic%20Superpower.epub)
+ - Deep Work - Rules for Focused Success in a Distracted World [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Deep%20Work%20-%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Deep%20Work%20-%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World.epub)
+ - Help Any Team Build a Better Experience [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Help%20Any%20Team%20Build%20a%20Better%20Experience.epub)
+ - The Growth Handbook by Intercom [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./The%20Growth%20Handbook%20by%20Intercom.epub)
+ - The Laws of Simplicity [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./The%20Laws%20of%20Simplicity.pdf)
+
+## Misc. Programming
+
+ - Elixir in Action [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc.%20Programming/Elixir%20in%20Action.pdf)
+ - Elm Accelerated [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc.%20Programming/Elm%20Accelerated.epub)
+ - Reactive Applications with Akka.Net [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc.%20Programming/Reactive%20Applications%20with%20Akka.Net.pdf)
+ 
 ## Node.js
  - Building Hypermedia APIs with HTML5 and Node [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Node.js/Building%20Hypermedia%20APIs%20with%20HTML5%20and%20Node.pdf)
  - Developing Microservices with Node.js [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Node.js/Developing%20Microservices%20with%20Node.js.pdf)
@@ -372,6 +387,7 @@ Any PR and suggestions are welcomed.
  - API Design Cookbook [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/API%20Design%20Cookbook.pdf)
  - APIs A Strategy Guide [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/APIs%20A%20Strategy%20Guide.pdf)
  - Architecting for Scale [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Architecting%20for%20Scale.epub)
+ - Building Evolutionary Architectures [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Evolutionary%20Architectures.pdf)
  - Building Adaptable Software with Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Adaptable%20Software%20with%20Microservices.pdf)
  - Building Microservices [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Microservices.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Building%20Microservices.epub)
  - Clean Code Collection [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Software%20Engineering%20and%20Architecture/Clean%20Code%20Collection.epub)
