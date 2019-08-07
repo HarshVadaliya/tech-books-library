@@ -313,7 +313,7 @@ Any PR and suggestions are welcomed.
  - Think Stats - Exploratory Data Analysis in Python [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats%20-%20Exploratory%20Data%20Analysis%20in%20Python.pdf)
  - Think Stats [[pdf]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats.pdf) [[epub]](https://github.com/ahmadassaf/books-library/blob/master/Math%20(Statistics,%20Linear%20Algebra,%20etc.)/Think%20Stats.epub)
 
- [Misc.](https://github.com/ahmadassaf/research-library/blob/master/Misc.)
+## Misc.
 
  - Algorithms to Live By: The Computer Science of Human Decisions [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Algorithms%20to%20Live%20By:%20The%20Computer%20Science%20of%20Human%20Decisions.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Algorithms%20to%20Live%20By:%20The%20Computer%20Science%20of%20Human%20Decisions.epub)
  - Anything You Want - 40 Lessons for a New Kind of Entrepreneur [[pdf]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Anything%20You%20Want%20-%2040%20Lessons%20for%20a%20New%20Kind%20of%20Entrepreneur.pdf) [[epub]](https://github.com/ahmadassaf/research-library/blob/master/Misc./Anything%20You%20Want%20-%2040%20Lessons%20for%20a%20New%20Kind%20of%20Entrepreneur.epub)
